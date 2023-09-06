@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mminhajmahroof@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/adsvF)
+- 📄 Know about my experiences https://shorturl.at/adsvF
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
