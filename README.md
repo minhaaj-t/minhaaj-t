@@ -5,7 +5,7 @@
  
 - 👨‍💻 All of my projects are available at [https://i-yam-three.live/](https://minhajt.com/)
 
-- 💬 Ask me about **react, php, vue and wordpress**
+- 💬 Ask me about **React, Vue, Laravel and WordPress**
 
 - 📫 How to reach me **mminhajmahroof@gmail.com**
 
