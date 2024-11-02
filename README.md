@@ -73,7 +73,7 @@
 
 ---
 
-### 🖼️ Profile Picture
+### 🖼️ Contribution Snake
 <div align="center">
     <img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Profile Picture" style="max-width: 90%; height: auto;">
 </div>
