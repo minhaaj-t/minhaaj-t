@@ -13,5 +13,4 @@
 
 - https://github.com/i-yam-three
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/I_yam_three"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="I_yam_three" /></a><a href="https://ko-fi.com/I_yam_three"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="I_yam_three" /></a></p><br><br>
+
