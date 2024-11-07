@@ -16,12 +16,10 @@
     I'm a software engineer who loves building web applications and exploring new technologies. My focus is on creating efficient and user-friendly experiences.
 </p>
 
-<div>
+<div align="center">
     <ul>
-        <li>🔗 Website: <a href="https://minhajt.netlify.app/" target="_blank">minhajt.com</a> || 🌐 Social Connections: <a href="https://into.bio/i_yam_three_" target="_blank">into.bio/i_yam_three_</a></li>
-        <li>💬 Ask me about: <strong>React, Vue, Laravel, WordPress</strong></li>
-        <li>📫 Reach me at: <a href="mailto:mminhajmahroof@gmail.com">mminhajmahroof@gmail.com</a></li>
-        <li></li>
+        <p>🔗 <a href="https://minhajt.netlify.app/" target="_blank">Portfolio</a> || 🌐 <a href="https://into.bio/i_yam_three_" target="_blank">Social Connections</a> || 📫 <a href="mailto:mminhajmahroof@gmail.com">Reach me</a></p>
+        <p>💬 Ask me about: <strong>React, Vue, Laravel, WordPress</strong></p>
     </ul>
 </div>
 
