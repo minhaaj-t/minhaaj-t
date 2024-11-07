@@ -18,11 +18,10 @@
 
 <div>
     <ul>
-        <li>🔗 Website: <a href="https://minhajt.netlify.app/" target="_blank">minhajt.com</a></li>
+        <li>🔗 Website: <a href="https://minhajt.netlify.app/" target="_blank">minhajt.com</a> || 🌐 Social Connections: <a href="https://into.bio/i_yam_three_" target="_blank">into.bio/i_yam_three_</a></li>
         <li>💬 Ask me about: <strong>React, Vue, Laravel, WordPress</strong></li>
         <li>📫 Reach me at: <a href="mailto:mminhajmahroof@gmail.com">mminhajmahroof@gmail.com</a></li>
-        <li>🌐 Social Connections: <a href="https://into.bio/i_yam_three_" target="_blank">into.bio/i_yam_three_</a></li>
-        <li>👾 GitHub: <a href="https://github.com/i-yam-three" target="_blank">i-yam-three</a></li>
+        <li></li>
     </ul>
 </div>
 
