@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Next.js">
     <img src="https://img.shields.io/badge/C-311C87?style=flat-square&logo=C" alt="C">
     <img src="https://img.shields.io/badge/-Laravel-2D3748?style=flat-square&logo=laravel" alt="Laravel">
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL">
     <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon" alt="AWS">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
