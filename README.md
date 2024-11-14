@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Next.js">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL">
     <img src="https://img.shields.io/badge/C-311C87?style=flat-square&logo=C" alt="C">
-    <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma" alt="Prisma">
+    <img src="https://img.shields.io/badge/-Laravel-2D3748?style=flat-square&logo=laravel" alt="Laravel">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=express" alt="Express.js">
     <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5">
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
