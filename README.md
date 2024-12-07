@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Muhammmed Minhaj Mahroof</h1>
-    <h3>A Passionate Software Engineer :octocat:</h3> 
+    <h3>A Passionate Software Engineer :octocat:</h3>
     <p> 
      
 <a href="https://github.com/i-yam-three" target="_blank">
