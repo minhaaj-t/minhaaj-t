@@ -246,5 +246,7 @@
 
 <div align="center">
     <p><em>Thank you for visiting my profile!</em></p>
+    <img alt="MUHAMMED MINHAJ MAHROOF" width="50" height="50" style="padding-right:10px;" src="https://github.com/minhaaj-t/minhaaj-t/blob/main/3d-fluency-github-logo.png?raw=true" />
+    
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&customColorList=0,2,2,5,30)&textBg=false&section=footer&descAlign=60&reversal=false&descAlignY=61" /></a><br>
 </div>
