@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>Hi, I'm Muhammmed Minhaj Mahroof</h1>
-    <h3>A Passionate Software Engineer :octocat:</h3>
-    <p> 
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits)](https://minhaj.pro/)
      
 <a href="https://github.com/i-yam-three" target="_blank">
     <img src="https://img.shields.io/twitter/follow/i_yam_three_?logo=twitter&style=for-the-badge" alt="Twitter" />
