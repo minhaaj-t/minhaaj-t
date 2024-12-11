@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&section=header&descAlign=60&reversal=false&descAlignY=61" /></a><br>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&customColorList=0,2,2,5,30)&textBg=false&section=header&descAlign=60&reversal=false&descAlignY=61" /></a><br>
 
 
 <div align="center">
@@ -126,4 +126,4 @@
 </div>
 
 <br />
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&section=footer&descAlign=60&reversal=false&descAlignY=61" /></a><br>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&customColorList=0,2,2,5,30)&textBg=false&section=footer&descAlign=60&reversal=false&descAlignY=61" /></a><br>
