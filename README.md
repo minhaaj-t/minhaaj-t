@@ -1,44 +1,57 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+    <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits)](https://minhaj.pro/)
-     
-  <a href="https://www.linkedin.com/in/minhaj-t/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username minhaj-t" /></a>
-  <a href="mailto:hello@minhaj.pro"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Muhammed Minhaj Mahroof i.e.   hello@minhaj.pro" /></a>
-  <a href="https://discord.com/invite/i_yam_three_#0146"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username https://discord.com/invite/i_yam_three_#0146" ></a>
-  <a href="https://x.com/i_yam_three_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username minhaj-t" ></a>
-<br />
+
+<a href="https://www.linkedin.com/in/minhaj-t/">
+        <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn Profile">
+    </a>
+<a href="mailto:hello@minhaj.pro">
+        <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email">
+    </a>
+<a href="https://discord.com/invite/i_yam_three_#0146">
+        <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord Profile">
+    </a>
+<a href="https://x.com/i_yam_three_">
+        <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Twitter Profile">
+    </a>
 </div>
-<br />
+
 <br />
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&" alt="Random Dev Quote" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
 </div>
-<br />
+
 <br />
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaaj-t&bg_color=ffffff&color=d56262&line=fea9a9&point=de3535&area=true&hide_border=true)
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+---
 
 ### 🚀 About Me
+
 <p align="center">
     I'm a software engineer who loves building web applications and exploring new technologies. My focus is on creating efficient and user-friendly experiences.
 </p>
 
 <div align="center">
     <ul>
-        <p>🔗 <a href="https://minhajt.netlify.app/" target="_blank">Portfolio</a> || 🌐 <a href="https://into.bio/i_yam_three_" target="_blank">Social Connections</a> || 📫 <a href="mailto:mminhajmahroof@gmail.com">Reach me</a></p>
-        <p>💬 Ask me about: <strong>React, Vue, Laravel, WordPress</strong></p>
+        <p>
+            🔗 <a href="https://minhajt.netlify.app/" target="_blank">Portfolio</a> || 🌐 <a href="https://into.bio/i_yam_three_" target="_blank">Social Connections</a> || 📫 <a href="mailto:mminhajmahroof@gmail.com">Reach me</a>
+        </p>
+        <p>
+            💬 Ask me about: <strong>React, Vue, Laravel, WordPress</strong>
+        </p>
     </ul>
 </div>
 
 ---
 
 ### 💻 Tech Stack
-
 
 <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
@@ -57,14 +70,15 @@
 ---
 
 ### 📊 My Stats
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/88f63da7-ff60-473b-8502-c059667ab3ee" alt="Metrics Plugin Achievements" style="max-width: 90%; height: auto;">
 </div>
 
-
 ---
 
 ### 👥 Visitor Count
+
 <div align="center">
     <img src="https://profile-counter.glitch.me/chethanyadav456/count.svg" alt="Visitor Count">
 </div>
@@ -72,13 +86,15 @@
 ---
 
 ### 🖼️ Contribution Snake
+
 <div align="center">
-    <img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Profile Picture" style="max-width: 90%; height: auto;">
+    <img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Contribution Snake" style="max-width: 90%; height: auto;">
 </div>
 
 ---
 
 ### 🔗 Connect with Me
+
 <div align="center">
     Let's connect on social media!<br/>
     <a href="https://twitter.com/i_yam_three_" target="_blank">🐦 Twitter</a> | 
@@ -90,5 +106,5 @@
 
 <div align="center">
     <p><em>Thank you for visiting my profile!</em></p>
-     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
