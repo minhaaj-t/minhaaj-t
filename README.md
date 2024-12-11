@@ -1,15 +1,17 @@
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits)](https://minhaj.pro/)
      
-<a href="https://github.com/i-yam-three" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/i_yam_three_?logo=twitter&style=for-the-badge" alt="Twitter" />
-</a>
-
+  <a href="https://www.linkedin.com/in/minhaj-t/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username minhaj-t" /></a>
+  <a href="mailto:hello@minhaj.pro"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Muhammed Minhaj Mahroof i.e.   hello@minhaj.pro" /></a>
+  <a href="https://discord.com/invite/i_yam_three_#0146"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username https://discord.com/invite/i_yam_three_#0146" ></a>
+  <a href="https://x.com/i_yam_three_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username minhaj-t" ></a>
+<br />
 </div>
 
 ---
+
 
 ### 🚀 About Me
 <p align="center">
@@ -84,4 +86,5 @@
 
 <div align="center">
     <p><em>Thank you for visiting my profile!</em></p>
+     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
