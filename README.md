@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+    <img src="https://github.com/minhaaj-t/minhaaj-t/blob/main/hello-ezgif.com-crop.gif?raw=true" width="400">
+
+<br />
+<br />
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits)](https://minhaj.pro/)
 
