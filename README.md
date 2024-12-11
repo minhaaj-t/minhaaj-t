@@ -17,6 +17,10 @@
 
 ---
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaaj-t&bg_color=ffffff&color=d56262&line=fea9a9&point=de3535&area=true&hide_border=true)
+
+
+<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
 
 ### 🚀 About Me
 <p align="center">
