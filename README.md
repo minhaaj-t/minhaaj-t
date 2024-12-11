@@ -15,7 +15,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&" alt="Random Dev Quote" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
 </div>
 
----
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaaj-t&bg_color=ffffff&color=d56262&line=fea9a9&point=de3535&area=true&hide_border=true)
 <div align="center">
