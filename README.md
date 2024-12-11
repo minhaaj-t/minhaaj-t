@@ -36,7 +36,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
----
+
 <br />
 
 <div align="center">
@@ -228,33 +228,12 @@
 </table>
 </div>
 
----
 
-### 📊 My Stats
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/88f63da7-ff60-473b-8502-c059667ab3ee" alt="Metrics Plugin Achievements" style="max-width: 90%; height: auto;">
+    <img src="https://raw.githubusercontent.com/minhaaj-t/minhaaj-t/613c9d0c6acbc2b2372b17627553b446ffcd7176/snake.svg" alt="Contribution Snake" style="max-width: 90%; height: auto;">
 </div>
 
----
-
-### 👥 Visitor Count
-
-<div align="center">
-    <img src="https://profile-counter.glitch.me/chethanyadav456/count.svg" alt="Visitor Count">
-</div>
-
----
-
-### 🖼️ Contribution Snake
-
-<div align="center">
-    <img src="https://github.com/chethanyadav456/chethanyadav456/assets/46392684/56bc1e91-4b24-4ed9-ba3e-77f08f1af9d8" alt="Contribution Snake" style="max-width: 90%; height: auto;">
-</div>
-
----
-
-### 🔗 Connect with Me
 
 <div align="center">
     Let's connect on social media!<br/>
