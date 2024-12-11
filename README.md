@@ -9,6 +9,11 @@
   <a href="https://x.com/i_yam_three_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username minhaj-t" ></a>
 <br />
 </div>
+<br />
+<br />
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&" alt="Random Dev Quote" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
+</div>
 
 ---
 
@@ -51,12 +56,6 @@
     <img src="https://github.com/user-attachments/assets/88f63da7-ff60-473b-8502-c059667ab3ee" alt="Metrics Plugin Achievements" style="max-width: 90%; height: auto;">
 </div>
 
----
-
-### ✍️ Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote">
-</div>
 
 ---
 
