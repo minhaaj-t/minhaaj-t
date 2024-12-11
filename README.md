@@ -31,12 +31,22 @@
 </div>
 
 ---
+<br />
 
-### 🚀 About Me
+<div align="center">
+    <h1>
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="35" height="35" /> ABOUT ME
+    </h1>
+</div>
 
-<p align="center">
-    I'm a software engineer who loves building web applications and exploring new technologies. My focus is on creating efficient and user-friendly experiences.
+<p align="justify">
+    I am a dedicated software engineer with a passion for creating robust and scalable web applications. My expertise lies in developing user-centric solutions using modern frameworks and technologies. I strive to bridge the gap between functionality and aesthetics, delivering seamless digital experiences.
 </p>
+
+<p align="justify">
+    With a strong foundation in full-stack development, I continuously seek to enhance my skills and stay updated with emerging trends in technology. Whether working independently or collaborating in a team, I am committed to delivering high-quality, efficient, and impactful projects.
+</p>
+
 
 <div align="center">
     <ul>
