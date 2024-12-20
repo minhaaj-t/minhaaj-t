@@ -230,9 +230,7 @@
 
 
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/minhaaj-t/minhaaj-t/613c9d0c6acbc2b2372b17627553b446ffcd7176/snake.svg" alt="Contribution Snake" style="max-width: 90%; height: auto;">
-</div>
+
 
 
 <div align="center">
