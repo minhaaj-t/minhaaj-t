@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&customColorList=0,2,2,5,30)&textBg=false&section=header&descAlign=60&reversal=false&descAlignY=61" /></a><br>
 
-
+ 
 <div align="center">
     <img src="https://github.com/minhaaj-t/minhaaj-t/blob/main/hello-ezgif.com-crop.gif?raw=true" width="400">
  
