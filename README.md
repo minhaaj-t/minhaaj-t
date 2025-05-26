@@ -5,7 +5,7 @@
     <img src="https://github.com/minhaaj-t/minhaaj-t/blob/main/hello-ezgif.com-crop.gif?raw=true" width="400">
  
 <br />
-<br />
+<br /> 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits)](https://minhaj.pro/)
 
