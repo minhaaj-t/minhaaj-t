@@ -1,5 +1,5 @@
 <!-- Creative Header Banner -->
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20Minhaj's%20Profile!&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlign=70&descAlignY=60" /></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&fontAlign=70&fontAlignY=40&descAlign=70&descAlignY=60" /></a>
 
 <div align="center">
   <a href="https://minhaj.pro/">
