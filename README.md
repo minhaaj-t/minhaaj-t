@@ -7,7 +7,7 @@
   </a>  
 </div>
 
----
+--- 
 
 <div align="center">
   <h2>👋 Hi, I'm Minhaj!</h2>
