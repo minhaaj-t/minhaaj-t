@@ -1,5 +1,7 @@
 <!-- Creative Header Banner -->
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&fontAlign=70&fontAlignY=40&descAlign=70&descAlignY=60" /></a>
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B81F6,100:800080&fontAlign=70&fontAlignY=40&descAlign=70&descAlignY=60" />
+</a>
 
 <div align="center">
   <a href="https://minhaj.pro/">
@@ -7,7 +9,7 @@
   </a>  
 </div>
 
---- 
+---
 
 <div align="center">
   <h2>👋 Hi, I'm Minhaj!</h2>
@@ -86,5 +88,7 @@
 <div align="center">
   <p><em>Thank you for visiting my profile!</em></p>
   <img alt="MUHAMMED MINHAJ MAHROOF" width="50" height="50" style="padding-right:10px;" src="https://github.com/minhaaj-t/minhaaj-t/blob/main/3d-fluency-github-logo.png?raw=true" />
-  <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer" /></a>
-</div> 
+  <a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:3B81F6,100:800080&section=footer" />
+  </a>
+</div>
