@@ -11,7 +11,7 @@
 
 ---
 
-<div align="center">
+<div align="center">  
   <h2>👋 Hi, I'm Minhaj!</h2>
   <p>
     <strong>🚀 Full-stack developer</strong> passionate about building modern, scalable web apps.<br>
