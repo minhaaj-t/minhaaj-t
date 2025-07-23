@@ -8,7 +8,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=minhaaj-t&data=repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>  
 </div>
-
+  
 ---
 
 <div align="center">  
