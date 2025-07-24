@@ -22,7 +22,7 @@
     <a href="mailto:mminhajmahroof@gmail.com">📫 Email</a> |
     <a href="https://into.bio/i_yam_three_" target="_blank">Socials</a>
   </p>
-</div>
+</div>  
 
 ---
 
