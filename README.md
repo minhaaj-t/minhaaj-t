@@ -35,7 +35,6 @@
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" width="36" title="TypeScript"/><br/><sub>TypeScript</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" width="36" title="React"/><br/><sub>React</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" width="36" title="Vue"/><br/><sub>Vue</sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="36" title="Laravel"/><br/><sub>Laravel</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" width="36" title="Tailwind"/><br/><sub>Tailwind</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" width="36" title="Docker"/><br/><sub>Docker</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" width="36" title="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
