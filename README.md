@@ -40,7 +40,6 @@
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" width="36" title="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" width="36" title="MySQL"/><br/><sub>MySQL</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" width="36" title="MongoDB"/><br/><sub>MongoDB</sub></td>
-      <td align="center"><img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="36" title="GitHub"/><br/><sub>GitHub</sub></td>
     </tr>
   </table>
 </div>
