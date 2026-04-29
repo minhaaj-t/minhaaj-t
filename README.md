@@ -47,18 +47,6 @@
 ---
 
 <div align="center">
-  <h2>🌟 Project Highlights</h2>
-</div>
-
-<ul>
-  <li><strong>E-commerce Platform</strong>: Modern ASP.NET Core MVC shop with product catalog, quick view, and details pages.</li>
-  <li><strong>Portfolio Website</strong>: Personal site built with React and Tailwind CSS.</li>
-  <li><strong>Open Source Contributions</strong>: Active in .NET, React, and Vue communities.</li>
-</ul>
-
----
-
-<div align="center">
   <h2>🤝 Let's Connect</h2>
   <a href="https://www.linkedin.com/in/minhaj-t/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
